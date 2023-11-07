@@ -23,8 +23,7 @@ char alpha(char a[],char b,char c)
 	{
 		if(a[i]==c)
 		{
-			a[i]==b;
-		   
+			a[i]=b;
 		}		
 	}
 	puts(a);	
